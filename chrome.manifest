@@ -1,4 +1,4 @@
-content	tab-width	chrome/content/
+content	custom-tab-width	chrome/content/
 
-style	chrome://browser/content/browser.xul	chrome://tab-width/content/browser.css
-overlay	chrome://browser/content/browser.xul	chrome://tab-width/content/browser.xul
+style	chrome://browser/content/browser.xul	chrome://custom-tab-width/content/browser.css
+overlay	chrome://browser/content/browser.xul	chrome://custom-tab-width/content/browser.xul

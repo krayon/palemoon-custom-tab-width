@@ -9,7 +9,7 @@ var customTabWidth = {
   init: function() {
     var ss = document.styleSheets;
     for (let i = ss.length - 1; i >= 0; i--) {
-      if (ss[i].href == "chrome://tab-width/content/browser.css") {
+      if (ss[i].href == "chrome://custom-tab-width/content/browser.css") {
          this.styleSheet = ss[i];
          break;
       }
