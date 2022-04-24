@@ -2,23 +2,23 @@ Manifest-Version: 1.0
 
 Name: install.rdf
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: kVvJIcu8lMzXxMoAf6ga0w==
-SHA1-Digest: 1A7A0jG17ziht38V63GkTfN/pSg=
+MD5-Digest: p7mnXyzUOc4QuAItun+w1Q==
+SHA1-Digest: ozFZKhN4jJUeG/m+12xbL1TVboE=
 
 Name: chrome.manifest
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: YeTjAtDmZhqeF3nRI/sSHQ==
-SHA1-Digest: ju3FVIcThJoHq5OFygQQWfZVSjA=
+MD5-Digest: hXjzq4nP90Xl9L1TNK6RYw==
+SHA1-Digest: E4+zO9Q3gDryxhXgxOaTvgbW+LU=
 
 Name: chrome/content/browser.css
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: TXIYin1ac9kdZBNJsXqbuw==
-SHA1-Digest: dPpYbuKjg57E3ni87yHl87DTFck=
+MD5-Digest: jYTp8P8KPHhrkoGSyY8hWQ==
+SHA1-Digest: LOK/I0HBd54aGAmFdWLSY803zZU=
 
 Name: chrome/content/browser.js
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: ccb5n7k1G8mypvQEQGn2OA==
-SHA1-Digest: O0pjOXIwCkW8p+nicfNE7NWUf04=
+MD5-Digest: pjeDZy8v1zo21/WydAWZtw==
+SHA1-Digest: nR6cRmnuG7+yuqd81SrfI6r3qVg=
 
 Name: chrome/content/browser.xul
 Digest-Algorithms: MD5 SHA1
@@ -37,6 +37,6 @@ SHA1-Digest: TFrbJXEQatKnUdz2FXUePvAhyWU=
 
 Name: defaults/preferences/defaults.js
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: Ht6Nn39+kjqMsV3xuEoKbQ==
-SHA1-Digest: ig7C0ob/zP/tbu2ZXvewlqvP/Z4=
+MD5-Digest: HI7j5+T5Un1Tkp/0FnaJR976
+SHA1-Digest: mnl6bnoEAzI3ywKr+Mbj1yfNVpLe+g==
 
