@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>tab-width@design-noir.de</em:id>
+		<em:name>Custom Tab Width</em:name>
+		<em:version>1.0.1.1-signed.1-signed</em:version>
+		<em:creator>Dão Gottwald</em:creator>
+		<em:description>Lets you customize the minimum and maximum tab width.</em:description>
+		<em:homepageURL>http://en.design-noir.de/mozilla/tab-width/</em:homepageURL>
+		<em:optionsURL>chrome://tab-width/content/options.xul</em:optionsURL>
+		<em:iconURL>chrome://tab-width/content/icon.png</em:iconURL>
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>4.0b3</em:minVersion>
+				<em:maxVersion>4.0b6pre</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+	</Description>
+</RDF>

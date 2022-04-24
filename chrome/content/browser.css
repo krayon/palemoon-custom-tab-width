@@ -1,0 +1,7 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+/* 1 */
+.tabbrowser-tab[fadein]:not([pinned]) {
+  min-width: 100px !important;
+  max-width: 250px !important;
+}
